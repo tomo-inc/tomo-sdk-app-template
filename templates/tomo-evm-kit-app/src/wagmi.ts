@@ -6,5 +6,5 @@ export const config = getDefaultConfig({
   projectId: "YOUR_PROJECT_ID",
   chains: [mainnet, polygon, optimism, arbitrum, base],
   ssr: true,
-  clientId: 'bCMfq7lAMPobDhf6kWAHAPtO5Ct6YuA77W9SzhjUixFwOOi0f92vsdJpkAhn0W4tg8TVSeTNUSvBOC3MXYRuIH0Z'
+  clientId: '...'
 });
